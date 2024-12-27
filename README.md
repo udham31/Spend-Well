@@ -14,7 +14,7 @@ SpendWell simplifies financial tracking while ensuring data persistence and scal
 
 --> How to Run:
 -->Clone the repository:
-git clone https://github.com/your-username/spendwell.git
+https://github.com/udham31/Spend-Well 
 cd spendwell
 
 -->Install dependencies:
